@@ -9,7 +9,3 @@
 - Git Url: https://github.com/DHRyu227
 - Coding Level: 1
 - Test Version
-
-
-
-![main](md_images/main.png)
